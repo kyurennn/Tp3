@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\daffa\\source\\repos\\\u201CTP_MODUL3_103022400056\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{490FFF31-2ADC-4DFC-BD79-FEA484A4B193}|\u201CTP_MODUL3_103022400056\\\u201CTP_MODUL3_103022400056.csproj|c:\\users\\daffa\\source\\repos\\\u201Ctp_modul3_103022400056\\\u201Ctp_modul3_103022400056\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{490FFF31-2ADC-4DFC-BD79-FEA484A4B193}|\u201CTP_MODUL3_103022400056\\\u201CTP_MODUL3_103022400056.csproj|solutionrelative:\u201Ctp_modul3_103022400056\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EAFD6D39-7D3C-057B-17BE-9FEDA6573711}|\u201CTP_MODUL3_103022400056\\\u201CTP_MODUL3_103022400056.csproj|c:\\users\\daffa\\source\\repos\\\u201Ctp_modul3_103022400056\\\u201Ctp_modul3_103022400056\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAFD6D39-7D3C-057B-17BE-9FEDA6573711}|\u201CTP_MODUL3_103022400056\\\u201CTP_MODUL3_103022400056.csproj|solutionrelative:\u201Ctp_modul3_103022400056\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFD6D39-7D3C-057B-17BE-9FEDA6573711}|\u201CTP_MODUL3_103022400056\\\u201CTP_MODUL3_103022400056.csproj|c:\\users\\daffa\\source\\repos\\\u201Ctp_modul3_103022400056\\\u201Ctp_modul3_103022400056\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFD6D39-7D3C-057B-17BE-9FEDA6573711}|\u201CTP_MODUL3_103022400056\\\u201CTP_MODUL3_103022400056.csproj|solutionrelative:\u201Ctp_modul3_103022400056\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\daffa\\source\\repos\\\u201CTP_MODUL3_103022400056\\\u201CTP_MODUL3_103022400056\\Form1.cs",
+              "RelativeDocumentMoniker": "\u201CTP_MODUL3_103022400056\\Form1.cs",
+              "ToolTip": "C:\\Users\\daffa\\source\\repos\\\u201CTP_MODUL3_103022400056\\\u201CTP_MODUL3_103022400056\\Form1.cs",
+              "RelativeToolTip": "\u201CTP_MODUL3_103022400056\\Form1.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAYwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T05:40:18.645Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,

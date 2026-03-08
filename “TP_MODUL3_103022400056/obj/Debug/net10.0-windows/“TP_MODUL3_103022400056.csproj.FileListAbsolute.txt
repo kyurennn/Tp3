@@ -1,0 +1,17 @@
+C:\Users\daffa\source\repos\“TP_MODUL3_103022400056\“TP_MODUL3_103022400056\bin\Debug\net10.0-windows\“TP_MODUL3_103022400056.exe
+C:\Users\daffa\source\repos\“TP_MODUL3_103022400056\“TP_MODUL3_103022400056\bin\Debug\net10.0-windows\“TP_MODUL3_103022400056.deps.json
+C:\Users\daffa\source\repos\“TP_MODUL3_103022400056\“TP_MODUL3_103022400056\bin\Debug\net10.0-windows\“TP_MODUL3_103022400056.runtimeconfig.json
+C:\Users\daffa\source\repos\“TP_MODUL3_103022400056\“TP_MODUL3_103022400056\bin\Debug\net10.0-windows\“TP_MODUL3_103022400056.dll
+C:\Users\daffa\source\repos\“TP_MODUL3_103022400056\“TP_MODUL3_103022400056\bin\Debug\net10.0-windows\“TP_MODUL3_103022400056.pdb
+C:\Users\daffa\source\repos\“TP_MODUL3_103022400056\“TP_MODUL3_103022400056\obj\Debug\net10.0-windows\_TP_MODUL3_103022400056.Form1.resources
+C:\Users\daffa\source\repos\“TP_MODUL3_103022400056\“TP_MODUL3_103022400056\obj\Debug\net10.0-windows\“TP_MODUL3_103022400056.csproj.GenerateResource.cache
+C:\Users\daffa\source\repos\“TP_MODUL3_103022400056\“TP_MODUL3_103022400056\obj\Debug\net10.0-windows\“TP_MODUL3_103022400056.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daffa\source\repos\“TP_MODUL3_103022400056\“TP_MODUL3_103022400056\obj\Debug\net10.0-windows\“TP_MODUL3_103022400056.AssemblyInfoInputs.cache
+C:\Users\daffa\source\repos\“TP_MODUL3_103022400056\“TP_MODUL3_103022400056\obj\Debug\net10.0-windows\“TP_MODUL3_103022400056.AssemblyInfo.cs
+C:\Users\daffa\source\repos\“TP_MODUL3_103022400056\“TP_MODUL3_103022400056\obj\Debug\net10.0-windows\“TP_MODUL3_103022400056.csproj.CoreCompileInputs.cache
+C:\Users\daffa\source\repos\“TP_MODUL3_103022400056\“TP_MODUL3_103022400056\obj\Debug\net10.0-windows\“TP_MODUL3_103022400056.sourcelink.json
+C:\Users\daffa\source\repos\“TP_MODUL3_103022400056\“TP_MODUL3_103022400056\obj\Debug\net10.0-windows\“TP_MODUL3_103022400056.dll
+C:\Users\daffa\source\repos\“TP_MODUL3_103022400056\“TP_MODUL3_103022400056\obj\Debug\net10.0-windows\refint\“TP_MODUL3_103022400056.dll
+C:\Users\daffa\source\repos\“TP_MODUL3_103022400056\“TP_MODUL3_103022400056\obj\Debug\net10.0-windows\“TP_MODUL3_103022400056.pdb
+C:\Users\daffa\source\repos\“TP_MODUL3_103022400056\“TP_MODUL3_103022400056\obj\Debug\net10.0-windows\“TP_MODUL3_103022400056.genruntimeconfig.cache
+C:\Users\daffa\source\repos\“TP_MODUL3_103022400056\“TP_MODUL3_103022400056\obj\Debug\net10.0-windows\ref\“TP_MODUL3_103022400056.dll
